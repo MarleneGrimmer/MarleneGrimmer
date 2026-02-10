@@ -1,5 +1,5 @@
 - Hi, I’m Marlene
-- I’m interested in microbiology and bioinformatic methods to study it.
+- I’m interested in microbiology and bioinformatic methods.
 - Pronouns: she/her
 
 <!---
